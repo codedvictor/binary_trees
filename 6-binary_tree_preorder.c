@@ -3,7 +3,7 @@
 /**
  * binary_tree_preorder - a function that check if node is a leaf.
  * @tree: the node to check tree.
- * @func: 
+ * @func: value in the parameter
  * Return: 0 is not a leaf otherwise 1 is a leaf.
  */
 
